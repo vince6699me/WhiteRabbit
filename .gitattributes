@@ -45,3 +45,4 @@ WhiteRabbitNeo-Llama-3-WhiteRabbitNeo-8B-v2.0-Q5_K_S.gguf filter=lfs diff=lfs me
 WhiteRabbitNeo-Llama-3-WhiteRabbitNeo-8B-v2.0-Q6_K.gguf filter=lfs diff=lfs merge=lfs -text
 WhiteRabbitNeo-Llama-3-WhiteRabbitNeo-8B-v2.0-Q8_0.gguf filter=lfs diff=lfs merge=lfs -text
 featherless-quants.png filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
